@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Travel List App
+you can try it on : [https://travel-list-byfares.netlify.app/]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Travel List App! This React application helps you manage and organize your travel packing list. Keep track of items you need to pack, mark them as packed, and easily sort and view your list. Plus, stay informed about your packing progress with the percentage of packed items.
+
+## Features
+
+- **Add Items**: Easily add items to your travel list.
+
+- **Mark as Packed**: Once you've packed an item, mark it as packed for easy tracking.
+
+- **Sort Items**: Sort your items by number or name for better organization.
+
+- **Packing Progress**: Keep an eye on your packing progress with the percentage of packed items.
+
+## Getting Started
+
+Follow these steps to run the Travel List App locally on your machine:
 
 ## Available Scripts
 
